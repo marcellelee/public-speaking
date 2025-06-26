@@ -2,7 +2,7 @@
 I’m passionate about sharing cybersecurity knowledge and I have been doing this since 2012 by public speaking. I regularly present at conferences and other events both in-person and virtually, covering topics such as cyber threat intelligence, digital forensics, threat actor tactics, techniques, and procedures (TTPs), and cyber competitions. If you're looking for a speaker or contributor for your event, publication, or training program, feel free to email me at marcelle at marcellelee.com or message me on [LinkedIn](https://www.linkedin.com/in/marcellelee). Below is a selection of my past talks, podcast appearances, and workshops.
 
 ## Keynotes
-BsidesROC (Rochester, NY), [Beyond Ransomware: Examining the Shifting Cyber Landscape](https://drive.google.com/file/d/1rc6fDMZHWgIrh9YLJk4YaQhJM38t9M5U/view?usp=sharing), February 2024
+BsidesROC (Rochester, NY), [Beyond Ransomware: Examining the Shifting Cyber Landscape](https://drive.google.com/file/d/1rc6fDMZHWgIrh9YLJk4YaQhJM38t9M5U/view?usp=sharing) (video), February 2024
 
 Wild West Hacking Fest, [Growing Your Cyber Garden](https://drive.google.com/file/d/1xZJ3RyBEXLzd2dc1W3OUbk8yBW8CwhDK/view?usp=sharing), September 2021
 
@@ -65,11 +65,11 @@ O’Reilly Security Amsterdam, Practical Network Forensics with Lisa Jiggetts, N
 ## Selected Talks
 Data Center World, Security Convergence: With Great Power Comes Great Responsibility, April 2025
 
-BSidesKY (Cayman Islands), [Navigating Shifting Sands in the Ever Evolving Threat Landscape](https://www.youtube.com/watch?v=QXnD5-XeS5g), October 2024
+BSidesKY (Cayman Islands), [Navigating Shifting Sands in the Ever Evolving Threat Landscape](https://www.youtube.com/watch?v=QXnD5-XeS5g)(video), October 2024
 
-MITRE ATT&CKcon, [Practical Application of MITRE ATT&CK](https://www.youtube.com/watch?v=btDfr-y6gnI&list=PLLGRmm150VfA8ahybY6XdDGtbCkoBNyyn&index=7), October 2024
+MITRE ATT&CKcon, [Practical Application of MITRE ATT&CK](https://www.youtube.com/watch?v=btDfr-y6gnI&list=PLLGRmm150VfA8ahybY6XdDGtbCkoBNyyn&index=7) (video), October 2024
 
-BSidesCharm (Baltimore), [Let’s Get Cooking with CyberChef](https://www.youtube.com/watch?v=kI3EjPPWLmI), April 2022
+BSidesCharm (Baltimore), [Let’s Get Cooking with CyberChef](https://www.youtube.com/watch?v=kI3EjPPWLmI) (video), April 2022
 
 Cyber & Infrastructure Security Agency (CISA) Advanced Threat Technical Exchange, Behind the Scenes of a Post-Intrusion Ransomware Attack, August 2021
 
@@ -82,9 +82,9 @@ Defcon, Skytalk: Hacking the Technical Interview with [Kelley Goldblatt](https:/
 ## Panels
 BSidesNoVA, Two Frameworks are Better Than One with [John Stoner](https://www.linkedin.com/in/johnstoner123/), [Tyrone Wilson](https://www.linkedin.com/in/tyroneewilson/), and [Richard Struse](https://www.linkedin.com/in/richard-struse/), September 2022
 
-BSidesNoVA, [Certs vs No Certs](https://www.youtube.com/watch?v=atRK__0nqQk) with [Johnathan Tomek](https://www.linkedin.com/in/jonathantomek/), [Jessie TeBrake](https://www.linkedin.com/in/jesse-tebrake-cissp-3a115a15/), and [Steve Higdon](https://www.linkedin.com/in/stevehigdon-infosec), June 2021
+BSidesNoVA, [Certs vs No Certs](https://www.youtube.com/watch?v=atRK__0nqQk) (video) with [Johnathan Tomek](https://www.linkedin.com/in/jonathantomek/), [Jessie TeBrake](https://www.linkedin.com/in/jesse-tebrake-cissp-3a115a15/), and [Steve Higdon](https://www.linkedin.com/in/stevehigdon-infosec), June 2021
 
-CyberAg Symposium, [Ransomware Breakout Session](https://www.youtube.com/watch?v=9H4XnRSJ_r0) with [Chris Sachse](https://www.linkedin.com/in/christopher-sachse/) and Zach Hill, December 2020
+CyberAg Symposium, [Ransomware Breakout Session](https://www.youtube.com/watch?v=9H4XnRSJ_r0) (video) with [Chris Sachse](https://www.linkedin.com/in/christopher-sachse/) and Zach Hill, December 2020
 
 National Cyber Security Centre Ghana, COVID-19 & Cybersecurity, October 2020
 
