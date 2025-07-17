@@ -13,7 +13,9 @@ Hacker Halted, [Hacking Diversity](https://www.slideshare.net/slideshow/hacking-
 Australian Cyber Security Center Conference, Diversity in Tech: Increasing the CyberSecurity Workforce Pipeline, April 2015
 
 
-## Podcasts
+## Podcasts and Television Shows
+Cybersecurity Today TV Show, [Inside the Mind of a Threat Researcher-Advancing Cyber Intelligence](https://www.youtube.com/watch?v=2ei9UtQ3u3w), June 2025
+
 CyberWire Research Saturday, [Instagram hijacks all start with a phish](https://thecyberwire.com/podcasts/research-saturday/220/notes), February 2022
 
 Cybercrime Magazine Podcast, [Let’s Talk SOC: Is Your Organization Prepared for Ransomware attacks?](https://soundcloud.com/cybercrimemagazine/lets-talk-soc-is-your-organization-prepared-for-ransomware-marcelle-lee-secureworks), September 2021
@@ -32,6 +34,8 @@ Paul's Security Weekly, [Episode 387, Interview with Women's Society of Cyberjut
 
 
 ## Workshops
+Sharkfest25, Detecting Evil with Network Traffic Analysis, June 2025
+
 BSides Charm (Baltimore), Threat Actors: Gotta Catch Them All!, April 2024
 
 Thotcon, [Let’s Get Cooking with CyberChef](https://github.com/marcellelee/cyberchef_recipes) with [Cory Kujawski](https://www.linkedin.com/in/cory-kujawski), May 2023
