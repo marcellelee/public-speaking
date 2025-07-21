@@ -34,7 +34,7 @@ Paul's Security Weekly, [Episode 387, Interview with Women's Society of Cyberjut
 
 
 ## Workshops
-SharkFest25, Detecting Evil with Network Traffic Analysis, June 2025
+SharkFest25, [Detecting Evil with Network Traffic Analysis](https://www.youtube.com/watch?v=SmIsv8FPcZk), June 2025
 
 BSides Charm (Baltimore), Threat Actors: Gotta Catch Them All!, April 2024
 
