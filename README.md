@@ -2,7 +2,9 @@
 I’m passionate about sharing cybersecurity knowledge and I have been doing this since 2012 through public speaking. I regularly present at conferences and other events both in-person and virtually, covering topics such as cyber threat intelligence, digital forensics, threat actor tactics, techniques, and procedures (TTPs), and cyber competitions. If you're looking for a speaker or contributor for your event, publication, or training program, feel free to email me at marcelle at marcellelee.com or message me on [LinkedIn](https://www.linkedin.com/in/marcellelee). Below is a selection of my past talks, podcast appearances, and workshops.
 
 ## Keynotes
-BsidesROC (Rochester, NY), [Beyond Ransomware: Examining the Shifting Cyber Landscape](https://drive.google.com/file/d/1rc6fDMZHWgIrh9YLJk4YaQhJM38t9M5U/view?usp=sharing) (video), February 2024
+BSides Bournemouth, [Down the Security Rabbit Hole: A Cyber Journey]([https://drive.google.com/file/d/1rc6fDMZHWgIrh9YLJk4YaQhJM38t9M5U/view?usp=sharing](https://www.youtube.com/watch?v=ZqNHFmpawO0&t=700s) (video), August 2025
+
+BSidesROC (Rochester, NY), [Beyond Ransomware: Examining the Shifting Cyber Landscape](https://drive.google.com/file/d/1rc6fDMZHWgIrh9YLJk4YaQhJM38t9M5U/view?usp=sharing) (video), February 2024
 
 Wild West Hacking Fest, [Growing Your Cyber Garden](https://drive.google.com/file/d/1xZJ3RyBEXLzd2dc1W3OUbk8yBW8CwhDK/view?usp=sharing), September 2021
 
@@ -14,6 +16,8 @@ Australian Cyber Security Center Conference, Diversity in Tech: Increasing the C
 
 
 ## Podcasts and Television Shows
+Angie Tech Cafe, [CyberChef Coffee-Tea Chat with Marcelle](https://www.youtube.com/watch?app=desktop&v=ephkhDKl-ow#), September 2025
+
 Cybersecurity Today TV Show, [Inside the Mind of a Threat Researcher-Advancing Cyber Intelligence](https://www.youtube.com/watch?v=2ei9UtQ3u3w), June 2025
 
 CyberWire Research Saturday, [Instagram hijacks all start with a phish](https://thecyberwire.com/podcasts/research-saturday/220/notes), February 2022
