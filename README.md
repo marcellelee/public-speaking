@@ -16,6 +16,8 @@ Australian Cyber Security Center Conference, Diversity in Tech: Increasing the C
 
 
 ## Podcasts and Television Shows
+Cyber Coffee Hour, [Cyber Forensics & Future Threats with Marcelle Lee](https://www.youtube.com/watch?v=dxL-8BI9mxU), October 2025
+
 Angie Tech Cafe, [CyberChef Coffee-Tea Chat with Marcelle](https://www.youtube.com/watch?app=desktop&v=ephkhDKl-ow#), September 2025
 
 Cybersecurity Today TV Show, [Inside the Mind of a Threat Researcher-Advancing Cyber Intelligence](https://www.youtube.com/watch?v=2ei9UtQ3u3w), June 2025
