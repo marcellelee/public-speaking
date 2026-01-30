@@ -19,11 +19,11 @@ Australian Cyber Security Center Conference, Diversity in Tech: Increasing the C
 
 Feedly Threat Intel Webinar, [What CTI practitioners are planning for 2026](https://feedly.com/cti-sessions/what-cti-practitioners-are-planning-for-2026?utm_campaign=35216697-q126_january_ctisession016&utm_source=linkedin&utm_medium=social), January 2026
 
-Cyber Coffee Hour, [Cyber Forensics & Future Threats with Marcelle Lee](https://www.youtube.com/watch?v=dxL-8BI9mxU), October 2025
+Cyber Coffee Hour, [Cyber Forensics & Future Threats with Marcelle Lee](https://www.youtube.com/watch?v=dxL-8BI9mxU) (video), October 2025
 
-Angie Tech Cafe, [CyberChef Coffee-Tea Chat with Marcelle](https://www.youtube.com/watch?app=desktop&v=ephkhDKl-ow#), September 2025
+Angie Tech Cafe, [CyberChef Coffee-Tea Chat with Marcelle](https://www.youtube.com/watch?app=desktop&v=ephkhDKl-ow#) (video), September 2025
 
-Cybersecurity Today TV Show, [Inside the Mind of a Threat Researcher-Advancing Cyber Intelligence](https://www.youtube.com/watch?v=2ei9UtQ3u3w), June 2025
+Cybersecurity Today TV Show, [Inside the Mind of a Threat Researcher-Advancing Cyber Intelligence](https://www.youtube.com/watch?v=2ei9UtQ3u3w) (video), June 2025
 
 CyberWire Research Saturday, [Instagram hijacks all start with a phish](https://thecyberwire.com/podcasts/research-saturday/220/notes), February 2022
 
@@ -39,7 +39,7 @@ CyberWire Research Saturday, [Cryptojacking injections heat up](https://thecyber
 
 CyberWire Daily, [Episode 493, BadRabbit Ransomware](https://thecyberwire.com/podcasts/daily-podcast/493/notes), December 2017
 
-Paul's Security Weekly, [Episode 387, Interview with Women's Society of Cyberjutsu](https://www.youtube.com/watch?v=Xusx5Rf0S0o) with Lisa Jiggetts, September 2014
+Paul's Security Weekly, [Episode 387, Interview with Women's Society of Cyberjutsu](https://www.youtube.com/watch?v=Xusx5Rf0S0o) (video) with Lisa Jiggetts, September 2014
 
 
 ## Workshops
