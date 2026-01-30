@@ -18,6 +18,7 @@ Australian Cyber Security Center Conference, Diversity in Tech: Increasing the C
 ## Podcasts, Webinars, and More 
 
 Feedly Threat Intel Webinar, [What CTI practitioners are planning for 2026](https://feedly.com/cti-sessions/what-cti-practitioners-are-planning-for-2026?utm_campaign=35216697-q126_january_ctisession016&utm_source=linkedin&utm_medium=social), January 2026
+
 Cyber Coffee Hour, [Cyber Forensics & Future Threats with Marcelle Lee](https://www.youtube.com/watch?v=dxL-8BI9mxU), October 2025
 
 Angie Tech Cafe, [CyberChef Coffee-Tea Chat with Marcelle](https://www.youtube.com/watch?app=desktop&v=ephkhDKl-ow#), September 2025
