@@ -39,6 +39,8 @@ Human Factor Security, [Episode 167 – Marcelle Lee](https://humanfactorsecurit
 
 CyberWire Career Notes, [Cyber sleuth detecting emerging threats](https://thecyberwire.com/podcasts/career-notes/46/notes), April 2021
 
+Cyberjutsu Webinar: [Hacking the Technical Interview, Cyberjutsu](https://www.brighttalk.com/webcast/14989/464811) (video), January 2021
+
 CyberWire Research Saturday, [ATM hacks on the rise](https://thecyberwire.com/podcasts/research-saturday/51/notes), September 2018
 
 CyberWire Research Saturday, [Cryptojacking injections heat up](https://thecyberwire.com/podcasts/research-saturday/27/notes), March 2018
