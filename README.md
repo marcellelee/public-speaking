@@ -17,13 +17,13 @@ Australian Cyber Security Center Conference, Diversity in Tech: Increasing the C
 
 ## Podcasts, Webinars, and More 
 
-GoCast - Cyber Podcast, [Beyond the hype: the reality of Cybersecurity careers](https://www.youtube.com/watch?v=ttbXOzp28Bk), March 2026
+GoCast - Cyber Podcast, [Beyond the hype: the reality of Cybersecurity careers](https://www.youtube.com/watch?v=ttbXOzp28Bk) (video), March 2026
 
 CyberWire Research Saturday, [The scareware rabbit hole](https://www.thecyberwire.com/podcasts/research-saturday/415/notes), March 2026
 
-Mothers of Boys (MOB) Podcast, [Raising Cyber-Smart Kids in the Age of AI: Cybersecurity Tips Every Parent Needs](https://www.youtube.com/watch?v=ERA_snyNKUA), February 2026
+Mothers of Boys (MOB) Podcast, [Raising Cyber-Smart Kids in the Age of AI: Cybersecurity Tips Every Parent Needs](https://www.youtube.com/watch?v=ERA_snyNKUA) (video), February 2026
 
-Feedly Threat Intel Webinar, [What CTI practitioners are planning for 2026](https://feedly.com/cti-sessions/what-cti-practitioners-are-planning-for-2026?utm_campaign=35216697-q126_january_ctisession016&utm_source=linkedin&utm_medium=social), January 2026
+Feedly Threat Intel Webinar, [What CTI practitioners are planning for 2026](https://feedly.com/cti-sessions/what-cti-practitioners-are-planning-for-2026?utm_campaign=35216697-q126_january_ctisession016&utm_source=linkedin&utm_medium=social) (video), January 2026
 
 Cyber Coffee Hour, [Cyber Forensics & Future Threats with Marcelle Lee](https://www.youtube.com/watch?v=dxL-8BI9mxU) (video), October 2025
 
@@ -33,7 +33,7 @@ Cybersecurity Today TV Show, [Inside the Mind of a Threat Researcher-Advancing C
 
 CyberWire Research Saturday, [Instagram hijacks all start with a phish](https://thecyberwire.com/podcasts/research-saturday/220/notes), February 2022
 
-Cybercrime Magazine Podcast, [Let’s Talk SOC: Is Your Organization Prepared for Ransomware attacks?](https://soundcloud.com/cybercrimemagazine/lets-talk-soc-is-your-organization-prepared-for-ransomware-marcelle-lee-secureworks), September 2021
+Cybercrime Magazine Podcast, [Let’s Talk SOC: Is Your Organization Prepared for Ransomware attacks?](https://soundcloud.com/cybercrimemagazine/lets-talk-soc-is-your-organization-prepared-for-ransomware-marcelle-lee-secureworks) (video), September 2021
 
 Human Factor Security, [Episode 167 – Marcelle Lee](https://humanfactorsecurity.co.uk/episode-167-marcelle-lee/), July 2021
 
