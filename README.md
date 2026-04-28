@@ -17,6 +17,12 @@ Australian Cyber Security Center Conference, Diversity in Tech: Increasing the C
 
 ## Podcasts, Webinars, and More 
 
+GoCast - Cyber Podcast, [Beyond the hype: the reality of Cybersecurity careers](https://www.youtube.com/watch?v=ttbXOzp28Bk), March 2026
+
+CyberWire Research Saturday, [The scareware rabbit hole](https://www.thecyberwire.com/podcasts/research-saturday/415/notes), March 2026
+
+Mothers of Boys (MOB) Podcast, [Raising Cyber-Smart Kids in the Age of AI: Cybersecurity Tips Every Parent Needs](https://www.youtube.com/watch?v=ERA_snyNKUA), February 2026
+
 Feedly Threat Intel Webinar, [What CTI practitioners are planning for 2026](https://feedly.com/cti-sessions/what-cti-practitioners-are-planning-for-2026?utm_campaign=35216697-q126_january_ctisession016&utm_source=linkedin&utm_medium=social), January 2026
 
 Cyber Coffee Hour, [Cyber Forensics & Future Threats with Marcelle Lee](https://www.youtube.com/watch?v=dxL-8BI9mxU) (video), October 2025
