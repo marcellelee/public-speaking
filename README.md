@@ -47,5 +47,20 @@ CyberWire Research Saturday, [Cryptojacking injections heat up](https://thecyber
 
 CyberWire Daily, [Episode 493, BadRabbit Ransomware](https://thecyberwire.com/podcasts/daily-podcast/493/notes), December 2017
 
+Paul's Security Weekly, [Episode 387, Interview with Women's Society of Cyberjutsu](https://www.youtube.com/watch?v=Xusx5Rf0S0o) (video) with Lisa Jiggetts, September 2014
 
+## Workshops
+SharkFest25, [Detecting Evil with Network Traffic Analysis](https://www.youtube.com/watch?v=SmIsv8FPcZk) (video), June 2025
+
+BSides Charm (Baltimore), Threat Actors: Gotta Catch Them All!, April 2024
+
+Thotcon, [Let’s Get Cooking with CyberChef](https://github.com/marcellelee/cyberchef_recipes) with [Cory Kujawski](https://www.linkedin.com/in/cory-kujawski), May 2023
+
+BSidesKY (Cayman Islands), Introduction to CTFs, aka Cyber Competitions, March 2023
+
+BSidesKY (Cayman Islands), Let’s Get Cracking with [Ahmed Ibrahim](https://www.linkedin.com/in/ahmedshedeed), May 2022
+
+WiCyS 2021, Red Team/Blue Team: How to Think Like a Hacker with [Mari Galloway](https://www.linkedin.com/in/themarigalloway), [Vanessa Redman](https://www.linkedin.com/in/vanessa-redman), and Lisa Jiggetts, September 2021
+
+Prince Georges Commmunity College GenCyber, Introduction to Cyber Competitions with [Tyrone Wilson](https://www.linkedin.com/in/tyroneewilson/), July 2021
 
