@@ -15,6 +15,7 @@ Australian Cyber Security Center Conference, Diversity in Tech: Increasing the C
 
 
 ## Podcasts, Webinars, and More 
+Cyber Threat Intelligence Podcast, [How To Turn Stakeholder Needs Into Actionable Threat Intelligence](https://www.cyberthreatintelligencepodcast.com/2432798/episodes/19501482-how-to-turn-stakeholder-needs-into-actionable-threat-intelligence-marcelle-lee-pedro-kertzman), June 2026
 
 GoCast - Cyber Podcast, [Beyond the hype: the reality of Cybersecurity careers](https://www.youtube.com/watch?v=ttbXOzp28Bk) (video), March 2026
 
