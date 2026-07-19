@@ -1,4 +1,3 @@
-# Marcelle Speaks
 I’m passionate about sharing cybersecurity knowledge and I have been doing this since 2012 through public speaking. I regularly present at conferences and other events both in-person and virtually, covering topics such as cyber threat intelligence, digital forensics, threat actor tactics, techniques, and procedures (TTPs), and cyber competitions. If you're looking for a speaker or contributor for your event, publication, or training program, feel free to email me at marcelle at marcellelee.com or message me on [LinkedIn](https://www.linkedin.com/in/marcellelee). Below is a selection of my past talks, podcast appearances, and workshops.
 
 ## Keynotes
