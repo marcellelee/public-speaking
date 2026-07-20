@@ -4,9 +4,9 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!-- Fixed CSS path for Custom Subdomain -->
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css">
     {% seo %}
-    {% include head-custom.html %}
   </head>
 
   <body>
@@ -14,8 +14,6 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <!-- The GitHub forkme banner button has been removed from here -->
-
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         </header>
